@@ -11,7 +11,7 @@ This script returns lists and paragraphs from word(docx) file with an search wor
   &nbsp;Script will return all paragraphs and lists from files.<br/>
   &nbsp;Repeat till your exam is done.<br />
   
-# ListExample:<br />
+# List Example:<br />
   <list<br />
   Language Options<br />
   1.Turkish<br />
