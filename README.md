@@ -15,14 +15,14 @@ This script returns lists and paragraphs from word(docx) file with an search wor
   <list<br />
   Language Options<br />
   1.Turkish<br />
-  2.Engilish<br />
+  2.English<br />
   3.French><br />
 
   It will give this output:<br/>
   
   Language Options<br />
   1.Turkish<br />
-  2.Engilish<br />
+  2.English<br />
   3.French<br />
     
 # Version 1.1:<br/>
